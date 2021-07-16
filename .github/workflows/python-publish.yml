@@ -18,6 +18,8 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+    - name: Automatic Changelog Generator
+      uses: charmixer/auto-changelog-action@v1
     - uses: actions/checkout@v2
     - name: Set up Python
       uses: actions/setup-python@v2
