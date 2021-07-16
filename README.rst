@@ -3,13 +3,8 @@ loki-api-client
 ===============
 
 
-Add a short description here!
-
-
-Description
-===========
-
-A longer description of your project goes here...
+A simple python wrapper for the Loki HTTP API.
+Reference: https://grafana.com/docs/loki/latest/api/#lokis-http-api
 
 
 .. _pyscaffold-notes:
